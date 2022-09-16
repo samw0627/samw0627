@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samw0627
+#👋 Hi, I’m Sam 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Django for back-end development
 
