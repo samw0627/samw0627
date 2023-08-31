@@ -40,7 +40,7 @@
 </div>
 
 <div>
-    <h4 align="left">Data Science 🔨: </h4>
+    <h4 align="left">Data Science 🌍: </h4>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
