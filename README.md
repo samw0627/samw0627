@@ -54,6 +54,7 @@
 <h2 align="left">Projects and Publications🔨:</h2>
   <div> 
     <h4>VizPI: A Real-Time Visualization Tool for Enhancing Peer Instruction in Large-Scale Programming Lectures </h4>
+    <h5>UIST 2023</h5>
     Xiaohang Tang, Xi Chen, <b>Sam Wong</b> , Yan Chen <br>
     <a href="https://dl.acm.org/doi/10.1145/3586182.3616632"> Link To Paper </a>
   </div>
